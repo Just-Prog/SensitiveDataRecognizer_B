@@ -1,0 +1,16 @@
+Flask
+Flask-Cors
+Flask-HTTPAuth
+Flask-Limiter
+Flask-RESTful
+Flask-Session
+Flask-SQLAlchemy
+psycopg2-binary
+jsonify
+python-docx
+openpyxl
+pillow
+loguru
+pycryptodome
+pytz
+filetype
